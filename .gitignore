@@ -1,0 +1,15 @@
+.rspec
+.DS_Store
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/db/*.sqlite3-[0-9]*
+/public/system
+/coverage/
+/spec/tmp
+
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+config/master.key
